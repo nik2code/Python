@@ -10,5 +10,14 @@ Package in python that allows code to interact directly with Excel documents
 - Stores excel workbook & worksheet as obect
 - Style sheets, parse data & create graphs
 
+openpyxl 
+- Visulalization
+- S-M sized datasets
+- Slow with large datasets
+
+Pandas
+- Lacks Visulaization
+- Large datasets
+- Fast Analysis
 
 
